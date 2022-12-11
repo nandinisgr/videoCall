@@ -17,7 +17,7 @@
   "dependencies": {
     "@pusher/chatkit-client": "^1.13.2",
     "body-parser": "^1.18.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "pusher": "^1.5.1",
     "pusher-js": "^5.0.2"
   }
